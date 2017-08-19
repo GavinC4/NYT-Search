@@ -1,0 +1,8 @@
+
+Thanks for registering for a New York Times API Key. 
+
+Here's your API Key for the Article Search API: a90efa929cc042ed889779daece2d63c
+
+If you have any questions, email us at code@nytimes.com
+
+Happy Coding!
