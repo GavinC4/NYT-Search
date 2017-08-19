@@ -1,0 +1,2 @@
+# NYT-Search
+class group
