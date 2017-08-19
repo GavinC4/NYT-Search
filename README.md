@@ -1,2 +1,0 @@
-# NYT-Search
-class group
